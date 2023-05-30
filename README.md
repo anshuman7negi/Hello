@@ -1,56 +1,170 @@
-# HELLO-MICROVERSE
+<a name="readme-top"></a>
 
-> Hello-microverse is a simple project build with HTML/CSS only.
+<div align="center">
 
+  <br/>
 
-## Built With
+  <h3><b>Hello Microverse</b></h3>
 
-- HTML
-- CSS
+</div>
 
-## Getting Started
-To get a local copy up and running follow these simple example steps.
+# 📗 Table of Contents
 
-1. Clone this repository or download the Zip folder:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-**``git clone https://github.com/anshuman7negi/Hello.git``**
+# Hello <a name="about-project"></a>
 
-2. Navigate to the location of the folder in your machine:
+**Hello** is a HTML project that display a "Hello Microverse" text.
 
-**``you@your-Pc-name:~$ cd <folder>``**
+## 🛠 Built With <a name="built-with"></a>
 
-### Visit And Open Files
-Visit Repo
-[Visit Repo](https://github.com/rbhatt1999/Hello-Microverse)
+### Tech Stack <a name="tech-stack"></a>
 
-Download Repo
-[Download Repo](https://github.com/anshuman7negi/Hello)
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+  </ul>
+</details>
 
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
 
-## Authors
+<details>
+<summary>Database</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
 
-👤 **Author1**
+### Key Features <a name="key-features"></a>
+
+- **Display colorfull text**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Demo link is coming soon](#)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- You need to have NodeJS installed
+- A Web Browser (Google Chrome, Firefox, etc)
+- A Code Editor (Notepad++, VSCode, etc)
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```
+git clone yourlink repo https://github.com/anshuman7negi/Hello.git
+
+cd your folder name
+```
+
+### Install
+
+Install this project with:
+
+```
+npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+Double-click on the index file (index.html)
+
+### Run tests
+
+To run tests, run the following command:
+
+N/A
+
+### Deployment
+
+You can deploy this project using:
+
+Deploy this project on any websever
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Anshuman Singh Negi **
 
 - GitHub: [@githubhandle](https://github.com/anshuman7negi)
 - Twitter: [@twitterhandle](https://twitter.com/AnshumanNegi108)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anshuman-singh-negi-33779a224/)
+- LinkedIn: [LinkedIn]((https://www.linkedin.com/in/anshuman-singh-negi-33779a224/)
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Add a hello animated illustration**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/anshuman7negi/Hello).
+Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+## ⭐️ Show your support <a name="support"></a>
 
-## Acknowledgments
+If you like this project give me a star.
 
-- Inspiration: Microverse
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank every who continues supporting me.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
 
 
 This project is [MIT](./MIT.md) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
