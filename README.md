@@ -111,7 +111,7 @@ Double-click on the index file (index.html)
 
 To run tests, run the following command:
 
-N/A
+npx hint .
 
 ### Deployment
 
