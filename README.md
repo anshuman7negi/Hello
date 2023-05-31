@@ -27,7 +27,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 # Hello <a name="about-project"></a>
@@ -128,7 +127,7 @@ Deploy this project on any websever
 
 - GitHub: [@githubhandle](https://github.com/anshuman7negi)
 - Twitter: [@twitterhandle](https://twitter.com/AnshumanNegi108)
-- LinkedIn: [LinkedIn]((https://www.linkedin.com/in/anshuman-singh-negi-33779a224/)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/anshuman-singh-negi-33779a224/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,8 +154,6 @@ If you like this project give me a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank every who continues supporting me.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
