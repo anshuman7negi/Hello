@@ -111,7 +111,7 @@ Double-click on the index file (index.html)
 
 To run tests, run the following command:
 
-N/A
+npx hint .
 
 ### Deployment
 
@@ -127,7 +127,7 @@ Deploy this project on any websever
 
 - GitHub: [@githubhandle](https://github.com/anshuman7negi)
 - Twitter: [@twitterhandle](https://twitter.com/AnshumanNegi108)
-- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/anshuman-singh-negi-33779a224)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/anshuman-singh-negi-33779a224/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,6 +159,9 @@ I would like to thank every who continues supporting me.
 
 ## 📝 License <a name="license"></a>
 
+
 This project is [MIT](./MIT.md) licensed.
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
